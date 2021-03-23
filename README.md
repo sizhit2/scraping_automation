@@ -84,7 +84,7 @@ Week 4: Enable Login and put onto server to enable daily scraping
 | Category      | Detailed Description | Status | Possible Problems | 
 | ------------- | ---------------------- |-- | --| 
 | （1）put script on server （如果登陆可以解决） | 代码放在服务器上跑| 未完成| 登陆问题的结束：1.简单滑块已解决 但是品销宝有人机识别 2. jd拼图滑块 3.输入手机验证码（无法解决）|
-| (2) change download logic ｜ 下载逻辑变更->生成下载任务后立马去下载 ｜ 未完成 ｜ 和别人并行跑代码 可能会下错文件 更难察觉 ｜
+| (2) change download logic | 下载逻辑变更->生成下载任务后立马去下载 | 未完成 | 和别人并行跑代码 可能会下错文件 更难察觉 |
 
 
 
