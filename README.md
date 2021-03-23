@@ -77,6 +77,7 @@ Week 4: Enable Login and put onto server to enable daily scraping
 | Category      | Detailed Description | Status | Possible Problems | 
 | ------------- | ---------------------- | -- | -- |
 | build data pipeline | 文件依赖路径处理|未完成 | chromedriver reset default download path问题 是否可行 |
+| unzip files | 部分文件解压|未完成 |无|
 | data cleaning to refomat data files | 数据清理 自动化过程： 拆分购物触点账户推广创意报表 +  删除最后一行改名： 快车账户推广计划报表 + 分拆两个品销宝流量包|未完成 | 1.excel表格转成dataframe使用pandas能否做全部 2.df的格式导出之后是否保持一，3.df读取spreadsheet✅ 4. int防止转科学技术法是否保留|
 
 4.10-4.17
