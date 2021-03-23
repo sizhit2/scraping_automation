@@ -77,14 +77,14 @@ Week 4: Enable Login and put onto server to enable daily scraping
 | Category      | Detailed Description | Status | Possible Problems | 
 | ------------- | ---------------------- | -- | -- |
 | build data pipeline | 文件依赖路径处理|未完成 | chromedriver reset default download path问题 是否可行 |
-| data cleaning to refomat data files | 数据清理 自动化过程： 拆分购物触点账户推广创意报表 +  删除最后一行改名： 快车账户推广计划报表 + 分拆两个品销宝流量包|未完成 | excel表格转成dataframe使用pandas能否做全部，df的格式导出之后是否保持一致，df读取spreadsheet✅ ， int防止转科学技术法是否保留|
+| data cleaning to refomat data files | 数据清理 自动化过程： 拆分购物触点账户推广创意报表 +  删除最后一行改名： 快车账户推广计划报表 + 分拆两个品销宝流量包|未完成 | 1.excel表格转成dataframe使用pandas能否做全部 2.df的格式导出之后是否保持一，3.df读取spreadsheet✅ 4. int防止转科学技术法是否保留|
 
 4.10-4.17
 优化
 | Category      | Detailed Description | Status | Possible Problems | 
 | ------------- | ---------------------- |-- | --| 
 | （1）put script on server （如果登陆可以解决） | 代码放在服务器上跑| 未完成| 登陆问题的结束：1.简单滑块已解决 但是品销宝有人机识别 2. jd拼图滑块 3.输入手机验证码（无法解决）|
-| (2) change download logic | 下载逻辑变更->生成下载任务后立马去下载 | 未完成 | 和别人并行跑代码 可能会下错文件 更难察觉 |
+| (2) change download logic | 下载逻辑变更->生成下载任务后立马去下载 | 未完成 | 1.和别人并行跑代码 可能会下错文件 更难察觉下载错误 可能的解决方法：文件名查询？ |
 
 
 
