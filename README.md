@@ -29,6 +29,7 @@ Limitation:
 The project will subject to only scrap certain websites
 Assumption:
 The login will work without blocking from e-commerce websites
+
 ### Brief Timeline
 Week 1: Enable Major Scraping functionalities on JD.com
 
@@ -37,7 +38,10 @@ Week 2: Enable Basic Data Cleaning
 Week 3: Create UI for interaction
 
 Week 4: Enable Login and put onto server to enable daily scraping
+
+
 ### Rubrics
+
 
 Week 1 
 
@@ -51,7 +55,10 @@ Week 1
 | Scrape chudian large |  触点大表： 触点账户报表 + 触点账户推广创意报表 + 购物触点创意带sku|
 | Scrape kuaiche large |  账户推广计划报表|
 | Scrape zhanwei large | 展位账户报表 |
+
+
 Week 2 
+
 | Category   | Detailed Description |
 | ------------- | ---------------------- |
 | Scrape pinxiaobao| 品牌专区账户报表|
@@ -62,13 +69,16 @@ Week 2
 
 
 Week 3
+
 | Category      | Detailed Description |
 | ------------- | ---------------------- |
 | build data pipeline | 文件依赖路径处理|
-| data cleaning to refomat data files | 数据清理 自动化过程：购物触点账户推广创意报表 +  快车账户推广计划报表|
+| data cleaning to refomat data files | 数据清理 自动化过程： 拆分购物触点账户推广创意报表 +  删除最后一行改名： 快车账户推广计划报表 + 分拆两个品销宝流量包|
 
-week 4
+Week 4
 
+| Category      | Detailed Description |
+| ------------- | ---------------------- |
 | put script on server （如果登陆可以解决） | 代码放在服务器上跑|
 
 
