@@ -43,43 +43,43 @@ Week 4: Enable Login and put onto server to enable daily scraping
 ### Rubrics
 
 
-Week 1 
+3.23-3.27
 
-| Category   | Detailed Description |
-| ------------- | ---------------------- |
-| Scrape chudian small| 触点小表: 触点人群 30*1|
-| Scrape kuaiche small | 快车小表: 快车创意 + 快车关键词 + 快车人群 30*3 |  
-| Scrape zhanwei  | 展位小表：展位人群 30*1|  
-| Scrape jingxuan  | 京选： 关键词 + 搜索溢价人群 ：30*2|  
-| Scrape haitou |  海投计划账户报表|
-| Scrape chudian large |  触点大表： 触点账户报表 + 触点账户推广创意报表 + 购物触点创意带sku|
-| Scrape kuaiche large |  账户推广计划报表|
-| Scrape zhanwei large | 展位账户报表 |
-
-
-Week 2 
-
-| Category   | Detailed Description |
-| ------------- | ---------------------- |
-| Scrape pinxiaobao| 品牌专区账户报表|
-| Scrape tmall super recommend | 超级推荐创意报表 + 超级推荐定向报表 |  
-| Scrape fast pass | 直通车宝贝 +  直通车关键词|  
-| Scrape diamond display  | 钻展创意 + 钻展定向报表|  
+| Category   | Detailed Description | Status | Possible Problems | 
+| ------------- | ---------------------- | ------------- | ---------------------- |
+| Scrape chudian small| 触点小表: 触点人群 30*1| ｜ ｜
+| Scrape kuaiche small | 快车小表: 快车创意 + 快车关键词 + 快车人群 30*3 |   ｜ ｜
+| Scrape zhanwei  | 展位小表：展位人群 30*1|  ｜ ｜
+| Scrape jingxuan  | 京选： 关键词 + 搜索溢价人群 ：30*2|  ｜ ｜
+| Scrape haitou |  海投计划账户报表| ｜ ｜
+| Scrape chudian large |  触点大表： 触点账户报表 + 触点账户推广创意报表 + 购物触点创意带sku| ｜ ｜
+| Scrape kuaiche large |  账户推广计划报表| ｜ ｜
+| Scrape zhanwei large | 展位账户报表 | ｜ ｜
 
 
+3.27-4.3
 
-Week 3
+| Category   | Detailed Description | Status | Possible Problems | 
+| ------------- | ---------------------- |--｜ -- ｜ 
+| Scrape pinxiaobao| 品牌专区账户报表| ｜ ｜
+| Scrape tmall super recommend | 超级推荐创意报表 + 超级推荐定向报表 |  ｜ ｜ 
+| Scrape fast pass | 直通车宝贝 +  直通车关键词|   ｜ ｜
+| Scrape diamond display  | 钻展创意 + 钻展定向报表|   ｜ ｜
 
-| Category      | Detailed Description |
-| ------------- | ---------------------- |
-| build data pipeline | 文件依赖路径处理|
-| data cleaning to refomat data files | 数据清理 自动化过程： 拆分购物触点账户推广创意报表 +  删除最后一行改名： 快车账户推广计划报表 + 分拆两个品销宝流量包|
 
-Week 4
 
-| Category      | Detailed Description |
-| ------------- | ---------------------- |
-| put script on server （如果登陆可以解决） | 代码放在服务器上跑|
+4.3 - 4.10
+
+| Category      | Detailed Description | Status | Possible Problems | 
+| ------------- | ---------------------- | -- | -- | 
+| build data pipeline | 文件依赖路径处理| | |
+| data cleaning to refomat data files | 数据清理 自动化过程： 拆分购物触点账户推广创意报表 +  删除最后一行改名： 快车账户推广计划报表 + 分拆两个品销宝流量包| | |
+
+4.10-4.17
+
+| Category      | Detailed Description | Status | Possible Problems | 
+| ------------- | ---------------------- | | | 
+| put script on server （如果登陆可以解决） | 代码放在服务器上跑| | |
 
 
 
