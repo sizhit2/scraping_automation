@@ -57,25 +57,19 @@ Week 2
 | Scrape pinxiaobao| 品牌专区账户报表|
 | Scrape tmall super recommend | 超级推荐创意报表 + 超级推荐定向报表 |  
 | Scrape fast pass | 直通车宝贝 +  直通车关键词|  
-| Scrape diamond display  | 钻展创意 + 定向报表|  
-| Scrape haitou |  海投计划账户报表|
-| Scrape chudian large |  触点大表： 触点账户报表 + 触点账户推广创意报表|
-| Scrape kuaiche large |  账户推广计划报表|
-| Scrape zhanwei large | 展位账户报表 |
+| Scrape diamond display  | 钻展创意 + 钻展定向报表|  
+
+
 
 Week 3
 | Category      | Detailed Description |
 | ------------- | ---------------------- |
 | build data pipeline | 文件依赖路径处理|
 | data cleaning to refomat data files | 数据清理 自动化过程：购物触点账户推广创意报表 +  快车账户推广计划报表|
-| organize data structures | 4 |  4 for finished, 0 for not finished|
-| export to database | 4 |  4 for finished, 0 for not finished|
 
-Week 4
-| Category      | Total Points Allocated | Detailed Rubrics |
-| ------------- | ---------------------- |------------- |
-| build web to see scraping status| 4 |  4 for finished, 0 for not finished|
-| build web to enable CRUD operations | 8 |  8 for finished, 0 for not finished|
-| put web onto server | 4 |  4 for finished, 0 for not finished|
+week 4
+
+| put script on server （如果登陆可以解决） | 代码放在服务器上跑|
+
 
 
