@@ -46,12 +46,12 @@ Week 4: Enable Login and put onto server to enable daily scraping
 3.23-3.27
 
 | Category   | Detailed Description | Status | Possible Problems | 
-| ------------- | ---------------------- | ------------- | ---------------------- |
+| ------------- | ---------------------- |------------ |--------------------- |
 | Scrape chudian small| 触点小表: 触点人群 30*1 | 已完成 ｜ 无｜
 | Scrape kuaiche small | 快车小表: 快车创意 + 快车关键词 + 快车人群 30*3 | 已完成  ｜ 无 ｜
 | Scrape zhanwei  | 展位小表：展位人群 30*1|  已完成｜ 无 ｜
 | Scrape jingxuan  | 京选： 关键词 + 搜索溢价人群 ：30*2| 已完成  ｜ 无｜
-| Scrape haitou |  海投计划账户报表|已完成 ｜ 无｜
+| Scrape haitou |  海投计划账户报表| 已完成 ｜ 无｜
 | Scrape chudian large |  触点大表： 触点账户报表 + 触点账户推广创意报表 + 购物触点创意带sku| 带sku未完成｜ 无｜
 | Scrape kuaiche large |  账户推广计划报表| 未完成｜无 ｜
 | Scrape zhanwei large | 展位账户报表 |未完成 ｜  无｜
