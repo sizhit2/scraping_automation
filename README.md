@@ -46,10 +46,10 @@ Week 4: Enable Login and put onto server to enable daily scraping
 3.23-3.27
 
 | Category   | Detailed Description | Status | Possible Problems | 
-| ------------- | ---------------------- |------------ |--------------------- |
-| Scrape chudian small| 触点小表: 触点人群 30*1 | 已完成 ｜ 无｜
-| Scrape kuaiche small | 快车小表: 快车创意 + 快车关键词 + 快车人群 30*3 | 已完成  ｜ 无 ｜
-| Scrape zhanwei  | 展位小表：展位人群 30*1|  已完成｜ 无 ｜
+| ------------- | ---------------------- | -- | -- |
+| Scrape chudian small| 触点小表: 触点人群 30*1 | 已完成 ｜ 无 ｜
+| Scrape kuaiche small | 快车小表: 快车创意 + 快车关键词 + 快车人群 30*3 |  已完成  ｜ 无 ｜
+| Scrape zhanwei  | 展位小表：展位人群 30*1|  已完成 ｜  无  ｜
 | Scrape jingxuan  | 京选： 关键词 + 搜索溢价人群 ：30*2| 已完成  ｜ 无｜
 | Scrape haitou |  海投计划账户报表| 已完成 ｜ 无｜
 | Scrape chudian large |  触点大表： 触点账户报表 + 触点账户推广创意报表 + 购物触点创意带sku| 带sku未完成｜ 无｜
@@ -61,7 +61,7 @@ Week 4: Enable Login and put onto server to enable daily scraping
 
 | Category   | Detailed Description | Status | Possible Problems | 
 | ------------- | ---------------------- |--｜ -- ｜ 
-| Scrape pinxiaobao| 品牌专区账户报表| 未完成｜ 无｜
+| Scrape pinxiaobao| 品牌专区账户报表| 未完成｜ 无 ｜
 | Scrape tmall super recommend | 超级推荐创意报表 + 超级推荐定向报表 | 未完成 ｜ 无｜ 
 | Scrape fast pass | 直通车宝贝 +  直通车关键词| 未完成  ｜ 无｜
 | Scrape diamond display  | 钻展创意 + 钻展定向报表|  未完成 ｜无 ｜
